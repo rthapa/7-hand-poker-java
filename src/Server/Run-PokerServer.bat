@@ -1,0 +1,2 @@
+javac PokerServer.java
+java PokerServer
